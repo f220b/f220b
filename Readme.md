@@ -10,8 +10,4 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=f220b&theme=solarized-light&hide_border=false)<br/>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
