@@ -13,15 +13,15 @@ I’m currently learning about Options and Alpha.<br>💬 Reach out to me: parth
 
 ## Featured Projects:
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
+  <a href="https://github.com/f220b/codechef-contest-to-calendar">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=codechef-contest-to-calendar&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=Auto-Youtube&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/f220b/Disney_Hotstar_Subs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=Disney_Hotstar_Subs&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=Disney_Hotstar_Subs&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/f220b/Auto-Youtube">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=Auto-Youtube&theme=tokyonight&hide_border=true" />
   </a>
 </p>
