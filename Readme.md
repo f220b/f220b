@@ -12,16 +12,8 @@ I’m currently learning about Options and Alpha.<br>💬 Reach out to me: parth
 
 
 ## Featured Projects:
-<p align="left">
-  <a href="https://github.com/f220b/codechef-contest-to-calendar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=codechef-contest-to-calendar&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/f220b/Disney_Hotstar_Subs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=Disney_Hotstar_Subs&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/f220b/Auto-Youtube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f220b&repo=Auto-Youtube&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Tech |
+|---|---|---|
+| [CodeChef Contest → Calendar](https://github.com/f220b/codechef-contest-to-calendar) | Adds upcoming CodeChef contests to Apple iCloud and/or Google Calendar, with reminders and duplicate detection | JavaScript, Chrome Extension, CalDAV, Google Calendar API |
+| [Disney+ Hotstar Subs](https://github.com/f220b/Disney_Hotstar_Subs) | Restyles Hotstar subtitles (font, size, color, outline, position) with a live preview and an option to hide the watermark | JavaScript, Chrome Extension (MV3) |
+| [Auto-Youtube](https://github.com/f220b/Auto-Youtube) | Locks YouTube to your chosen playback quality (144p–8K) with smart fallback and optional autopause | JavaScript, Chrome Extension |
